@@ -1,4 +1,6 @@
 # Material Prediction for Design Automation Using Graph Representation Learning
+
+## Repository Structure
 ```
 .
 ├─ feature_extraction       # Helper functions for extracting features
@@ -17,3 +19,6 @@
 ├─ sample_data              # A tiny subset of data sampled from the a03.10 Fusion 360 Assembly Gallery
 └─ user_guided              # Experiment No.3: User-guided Prediction
 ```
+
+## Dataset
+You may obtain the latest dataset (the one used in the manuscript) [here](https://drive.google.com/file/d/106rpRc3G7SYQt6crJJvr3Src5Kt_UJvc/view?usp=sharing)
